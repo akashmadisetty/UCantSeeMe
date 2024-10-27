@@ -22,7 +22,8 @@ from huggingface_hub import hf_hub_download
 from doclayout_yolo import YOLOv10
 from PyQt6.QtWidgets import QApplication, QMainWindow, QPushButton, QLabel, QWidget, QVBoxLayout
 from PyQt6.QtCore import QTimer, Qt
-from PyQt6.QtGui import QPixmap, QScreen, QImage ```
+from PyQt6.QtGui import QPixmap, QScreen, QImage 
+```
 
 ## Demo
 
