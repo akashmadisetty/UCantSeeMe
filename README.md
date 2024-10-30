@@ -48,7 +48,7 @@ python -m spacy download en_core_web_sm
 ### Usage 
 1. Launch your privacy shield:
 ```bash
-python src/main.py
+python main.py
 ```
 3. Share your screen with confidence! 
 
